@@ -1,0 +1,12 @@
+.form-select {
+  background-color:transparent;
+  border :none;
+  border-radius: 0;
+  border-bottom: 3px solid #000;
+  margin: 5px;
+  padding: 10px;
+}
+
+.form-select:focus{
+  box-shadow: none;
+}

@@ -1,0 +1,11 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  background-image:url("https://media.istockphoto.com/id/508544168/es/foto/cielo-azul-de-fondo.jpg?s=612x612&w=0&k=20&c=gHwNjvcrC8wNNvVOPC9cw5KObYkzXj56bCbNY6IPwKk=") ;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat:no-repeat;
+}
